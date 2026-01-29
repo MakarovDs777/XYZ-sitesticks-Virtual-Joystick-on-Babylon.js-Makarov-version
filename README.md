@@ -4,5 +4,7 @@
 
 [XYZ navigating using sitesticks (Virtual Joysticks) | Babylon.js Playground](https://playground.babylonjs.com/#Q67W59#1)
 
+Теперь уберем перемещения по Y а сделаем просто по XZ координатах.
+
 [XYZ navigating using sitesticks (Virtual Joysticks) Full version | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#HLM21K#0)
 
